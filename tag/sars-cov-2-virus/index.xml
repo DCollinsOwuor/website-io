@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SARS-CoV-2 virus | Dr. D. Collins Owuor</title>
+    <link>https://dcollinsowuor.com/tag/sars-cov-2-virus/</link>
+      <atom:link href="https://dcollinsowuor.com/tag/sars-cov-2-virus/index.xml" rel="self" type="application/rss+xml" />
+    <description>SARS-CoV-2 virus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dcollinsowuor.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>SARS-CoV-2 virus</title>
+      <link>https://dcollinsowuor.com/tag/sars-cov-2-virus/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19</title>
+      <link>https://dcollinsowuor.com/project/covid-19/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://dcollinsowuor.com/project/covid-19/</guid>
+      <description>&lt;p&gt;Collins&amp;rsquo; current research employs advanced diagnostics, genomics, and bioinformatics to study SARS-CoV-2 virus.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pandemic flu viruses</title>
+      <link>https://dcollinsowuor.com/project/pandemic-flu/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://dcollinsowuor.com/project/pandemic-flu/</guid>
+      <description>&lt;p&gt;Collins&amp;rsquo; research sought to understand the patterns of spread of the 2009 &lt;strong&gt;pandemic influenza A(H1N1)pdm09 virus&lt;/strong&gt; in Kenya since its introduction in 2009. He generated virus sequences from respiratory samples collected from influenza virus positive cases admitted to 7 sentinel surveillance sites across Kenya between 2009 and 2018 and analysed the data using bioinformatics techniques.&lt;/p&gt;
+&lt;p&gt;The movie below illustrates the patterns of spread of A(H1N1)pdm09 viruses in Kenya, 2009-2018. Countrywide, influenza viruses spread from multiple locations to multiple destinations within Kenya and between locations in proximity, with important implications for public health practice in the country. For example, they suggest that future novel strains of influenza virus may spread to multiple Kenyan locations following introduction. Thus, surveillance efforts should be concentrated in as many surveillance sites as possible for better pandemic preparedness and response.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;video.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seasonal flu viruses</title>
+      <link>https://dcollinsowuor.com/project/seasonal-flu/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://dcollinsowuor.com/project/seasonal-flu/</guid>
+      <description>&lt;p&gt;The role of understudied tropical and sub-tropical countries in the global spread of influenza viruses remains unclear due to insufficient spatiotemporal sequence data from these regions.&lt;/p&gt;
+&lt;p&gt;The movie below illustrates the global spread of influenza A(H3N2) virus. Globally, influenza viruses spread from multiple geographical locations to multiple geographical destinations including Africa, suggesting that the global spread of influenza is driven by different geographical regions that also includes Africa (Africa&amp;rsquo;s role shown for the first time in this work). These findings underscore the need for strengthened surveillance of influenza viruses in understudied tropical and sub-tropical regions.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;video.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
