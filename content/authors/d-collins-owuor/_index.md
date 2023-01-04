@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Bioinformatician
+role: Genomics | Bioinformatics
 
 # Organizations/Affiliations
 organizations:
@@ -28,13 +28,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Molecular Epidemiology and Bioinformatics
+  - course: PhD, Molecular Epidemiology and Bioinformatics
     institution: The Open University of UK
     year: 2020
-  - course: MSc in Molecular Genetics and Diagnostics 
+  - course: MSc, Molecular Genetics and Diagnostics 
     institution: University of Nottingham, UK
     year: 2012
-  - course: BSc in Biomedical Technology
+  - course: BSc, Biomedical Technology
     institution: University of Nairobi, Kenya
     year: 2010
 
@@ -51,7 +51,7 @@ social:
   link: https://scholar.google.co.uk/
 - icon: linkedin
   icon_pack: fab
-  link: https://github.com/
+  link: https://linkedin/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/
@@ -74,10 +74,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+#- Researchers
+#- Visitors
 ---
 
-Collins' current research applies advanced techniques (diagnostics, genomics, and bioinformatics) in the analyses of pathogen sequence data, with the aim of developing improved diagnostic/genomics tools and bioinformatics pipelines for pathogen sequence data analysis. 
+Collins' research applies advanced techniques (diagnostics, genomics, and bioinformatics) in the analyses of pathogen sequence data, with the aim of developing improved diagnostics/genomics tools and bioinformatics pipelines for pathogen sequence data analysis. 
 
 His current research interests, which aim to inform public health interventions, include molecular epidemiology of emerging and re-emerging viral pathogens of public health importance.
